@@ -52,7 +52,3 @@ If an error occurs while fetching the CORS headers, an error message will be dis
 Make sure to provide a valid image URL in the `url` query parameter. The server does not perform any validation on the provided URL.
 
 
-
----
-
-Feel free to customize the README file based on your specific requirements and add any additional information that you think would be helpful for users of your CORS test server.
