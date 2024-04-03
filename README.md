@@ -51,9 +51,7 @@ If an error occurs while fetching the CORS headers, an error message will be dis
 
 Make sure to provide a valid image URL in the `url` query parameter. The server does not perform any validation on the provided URL.
 
-## License
 
-This code is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
